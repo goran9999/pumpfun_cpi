@@ -477,7 +477,11 @@
             {
               "name": "complete",
               "type": "bool"
-            }
+            },
+           {
+            "name": "creator",
+            "type": "pubkey"
+          }
           ]
         }
       }
