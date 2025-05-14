@@ -193,6 +193,11 @@
             "isMut": true,
             "isSigner": false
           },
+           {
+            "name": "creatorVault",
+            "isMut": true,
+            "isSigner": false
+          },
           {
             "name": "mint",
             "isMut": false,
@@ -278,6 +283,11 @@
           },
           {
             "name": "bondingCurve",
+            "isMut": true,
+            "isSigner": false
+          },
+           {
+            "name": "creatorVault",
             "isMut": true,
             "isSigner": false
           },
