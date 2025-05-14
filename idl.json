@@ -193,11 +193,6 @@
             "isMut": true,
             "isSigner": false
           },
-           {
-            "name": "creatorVault",
-            "isMut": true,
-            "isSigner": false
-          },
           {
             "name": "mint",
             "isMut": false,
@@ -231,6 +226,11 @@
           {
             "name": "tokenProgram",
             "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "creatorVault",
+            "isMut": true,
             "isSigner": false
           },
           {
@@ -286,11 +286,6 @@
             "isMut": true,
             "isSigner": false
           },
-           {
-            "name": "creatorVault",
-            "isMut": true,
-            "isSigner": false
-          },
           {
             "name": "associatedBondingCurve",
             "isMut": true,
@@ -309,6 +304,11 @@
           {
             "name": "systemProgram",
             "isMut": false,
+            "isSigner": false
+          },
+           {
+            "name": "creatorVault",
+            "isMut": true,
             "isSigner": false
           },
           {
