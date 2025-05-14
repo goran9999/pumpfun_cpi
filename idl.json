@@ -234,11 +234,6 @@
             "isSigner": false
           },
           {
-            "name": "rent",
-            "isMut": false,
-            "isSigner": false
-          },
-          {
             "name": "eventAuthority",
             "isMut": false,
             "isSigner": false
